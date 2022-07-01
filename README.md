@@ -1,2 +1,5 @@
-# Contador-Counter
-Contador feito com JavaScript básico/ Counter made with basic JavaScript.
+## Contador-Counter
+
+#### Contador feito com JavaScript básico
+
+#### Counter made with basic JavaScript.
